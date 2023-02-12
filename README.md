@@ -1,0 +1,2 @@
+# patikastore
+patika.dev ödevi
